@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
