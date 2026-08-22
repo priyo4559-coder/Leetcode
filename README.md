@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/priyo4559-coder/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/priyo4559-coder/Leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyo4559-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyo4559-coder/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/priyo4559-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
