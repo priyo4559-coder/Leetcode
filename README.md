@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyo4559-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyo4559-coder/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyo4559-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyo4559-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -70,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/priyo4559-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyo4559-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/priyo4559-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
