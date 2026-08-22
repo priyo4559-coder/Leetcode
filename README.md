@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyo4559-coder/Leetcode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/priyo4559-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/priyo4559-coder/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/priyo4559-coder/Leetcode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,9 +76,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/priyo4559-coder/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/priyo4559-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
