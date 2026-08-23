@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/priyo4559-coder/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/priyo4559-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/priyo4559-coder/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -40,6 +41,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyo4559-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +116,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/priyo4559-coder/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyo4559-coder/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
