@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priyo4559-coder/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priyo4559-coder/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@
 | [0169-majority-element](https://github.com/priyo4559-coder/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priyo4559-coder/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -135,6 +138,7 @@
 | [0013-roman-to-integer](https://github.com/priyo4559-coder/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyo4559-coder/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/priyo4559-coder/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/priyo4559-coder/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
