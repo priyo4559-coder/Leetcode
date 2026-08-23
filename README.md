@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/priyo4559-coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyo4559-coder/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyo4559-coder/Leetcode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/priyo4559-coder/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/priyo4559-coder/Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyo4559-coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/priyo4559-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyo4559-coder/Leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/priyo4559-coder/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
